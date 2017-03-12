@@ -1,3 +1,6 @@
+// example usage:
+// phantomjs 05-net-log.js http://www.google.com
+
 "use strict";
 var page = require('webpage').create(),
     system = require('system'),

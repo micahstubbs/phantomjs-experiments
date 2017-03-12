@@ -1,3 +1,6 @@
+// example usage:
+// phantomjs 04-show-title.js http://www.google.com
+
 var page = require('webpage').create();
 var system = require('system');
 var address;
