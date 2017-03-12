@@ -16,3 +16,8 @@ a place for some small educational phantomJS scripts, inspired by [http://phanto
 [07-rasterize.js](07-rasterize.js)
 [08-color-wheel.js](08-color-wheel.js)
 
+##### Network Monitoring
+
+[05-net-log.js](05-net-log.js)
+[09-net-sniff.js](09-net-sniff.js)
+
